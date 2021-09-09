@@ -15,7 +15,7 @@ use Osiset\ShopifyApp\Objects\Values\SessionContext;
 /**
  * Represents the shop model.
  */
-interface ShopModel extends Authenticatable
+interface ShopModel
 {
     /**
      * Get shop ID as a value object.
